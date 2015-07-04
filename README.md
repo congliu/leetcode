@@ -1,3 +1,2 @@
 # leetcode
-tt
-testing
+This is code for leetcode problem.
